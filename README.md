@@ -30,3 +30,14 @@ A responsive, modern Weather Intelligence App built with React, Vite, and Tailwi
    ```bash
    git clone [https://github.com/ekansh-chelak/weather-intelligence-app.git](https://github.com/ekansh-chelak/weather-intelligence-app.git)
    cd weather-intelligence-app
+
+2. Install dependencies:
+   npm install
+
+3. Run local development server:
+   npm run dev
+
+4. Build for production:
+   npm run build
+   
+   
